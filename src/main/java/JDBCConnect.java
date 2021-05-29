@@ -15,7 +15,7 @@ public class JDBCConnect {
     Person person=new Person();
     private String url="jdbc:mysql://localhost:3306/person";
     private String userName="root";
-    private String passWord="muho145358.";
+    private String passWord="";//Your MySQL password
 
     public  void connect(){
 
